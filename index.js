@@ -1,5 +1,8 @@
-function scuberGreetingForFeet(){
+function scuberGreetingForFeet(rideLength){
   // Write your code here!
+  if (rideLength <= 400) {
+    'This on is on me!'
+  }
 }
 
 function ternaryCheckCity(){
