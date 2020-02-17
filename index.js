@@ -12,7 +12,9 @@ function scuberGreetingForFeet(rideLength){
 function ternaryCheckCity(city){
   // Write your code here!
   switch (city) {
-    case 'NYC';
+    case 'NYC':
+      'Ok, sounds good.'
+      break:
   }
 }
 
