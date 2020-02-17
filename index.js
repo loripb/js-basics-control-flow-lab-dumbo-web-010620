@@ -9,8 +9,9 @@ function scuberGreetingForFeet(rideLength){
   }
 }
 
-function ternaryCheckCity(){
+function ternaryCheckCity(city){
   // Write your code here!
+  switch city 
 }
 
 function switchOnCharmFromTip(){
