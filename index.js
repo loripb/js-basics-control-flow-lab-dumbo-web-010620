@@ -14,7 +14,7 @@ function ternaryCheckCity(city){
   switch (city) {
     case 'NYC':
       'Ok, sounds good.'
-      break:
+      break;
   }
 }
 
