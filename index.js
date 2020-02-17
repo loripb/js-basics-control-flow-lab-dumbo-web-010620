@@ -1,7 +1,7 @@
 function scuberGreetingForFeet(rideLength){
   // Write your code here!
   if (rideLength <= 400) {
-    'This on is on me!'
+    consloe.log('This on is on me!')
   }
 }
 
